@@ -1,0 +1,37 @@
+REFRENCES:
+
+https://stackoverflow.com/questions/15209978/where-to-store-secret-keys-django/61437799#61437799 for hiding of the SECRET_KEY and other confidential information
+
+https://docs.djangoproject.com/en/3.2/ref/settings/ , https://dev.to/mungaigikure/how-to-set-up-postgres-in-your-django-project-575i for adding postgresql as a data base
+
+https://www.psycopg.org/docs/install.html for installing Psycopg
+
+https://www.ordinarycoders.com/blog/article/django-user-register-login-logout#:~:text=Create%20the%20register%20form&text=Django%20comes%20with%20a%20pre,password2%20is%20the%20password%20confirmation for signup and login pages
+
+https://stackoverflow.com/questions/8466851/making-first-name-last-name-a-required-attribute-rather-than-an-optional-one-in to make the first name a required attribute.
+
+https://www.codegrepper.com/code-examples/python/how+to+retrieve+data+from+data.json+url+in+django  to retrieve data from some url.
+
+https://stackoverflow.com/questions/12848605/django-modelform-what-is-savecommit-false-used-for to get user's information after he signed up
+
+https://stackoverflow.com/questions/17010104/django-show-the-username-to-the-user-when-logged-in to get the username of the person logged in
+
+https://stackoverflow.com/questions/44026548/getting-typeerror-init-missing-1-required-positional-argument-on-delete
+
+https://www.blendo.co/documents/setup-heroku-postgres/
+
+https://medium.com/analytics-vidhya/deploying-django-app-on-heroku-with-github-fb3e3aaaa633 , https://medium.com/@shashankmohabia/deploying-a-django-app-to-heroku-using-github-repository-319c04a11c1a alternate steps for deployment
+
+https://medium.com/@shashankmohabia/deploying-a-django-app-to-heroku-using-github-repository-319c04a11c1a for whitenoice and deployment
+
+https://pypi.org/project/dj-database-url/ 
+
+https://stackoverflow.com/questions/9145994/a-simple-example-of-django-and-css#:~:text=In%20your%20sample%20code%2C%20inside,folder%2C%20place%20your%20css%20files.&text=Make%20sure%20you%20add%20myapp,sheet%20will%20be%20rendered%20correctly to add static files in the app(css files)
+
+https://www.w3schools.com/howto/howto_css_center_button.asp for centering in css.
+
+https://getbootstrap.com/docs/4.0/getting-started/introduction/ for bootstrap
+
+https://www.w3schools.com/bootstrap4/bootstrap_buttons.asp for button styling
+
+
